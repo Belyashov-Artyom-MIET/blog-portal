@@ -34,13 +34,14 @@
 - **Sprint 3** (Релиз) - Релиз версии 1.0.0
 
 ## Структура репозитория
+```
 ├── .github/ # GitHub Actions workflows
 ├── docs/ # Документация
 ├── src/ # Исходный код
 ├── tests/ # Тесты
 ├── README.md # Основная документация
 └── LICENSE # Лицензия MIT
-
+```
 ## 📄 Лицензия
 
 MIT License - см. файл [LICENSE](LICENSE)
